@@ -1,4 +1,6 @@
 # MP
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/mp.json)](https://alire.ada.dev/crates/mp.html)
+
 A Music Player
 
 Uses the Gnoga audio widget to create a music player.
